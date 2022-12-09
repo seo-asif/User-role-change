@@ -1,0 +1,6 @@
+remove_role function example:
+
+Remove the “Contributor” role from WordPress:
+
+$role = "contributor";
+remove_role($role)
